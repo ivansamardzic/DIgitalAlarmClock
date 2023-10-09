@@ -1,1 +1,1 @@
-# DIgitalAlarmClock
+# DigitalAlarmClock
